@@ -13,6 +13,9 @@ _University of Chile_.
 
 ---
 
+# IDEA ORIGINAL DEL EQUIPO DOCENTE DEL CURSO CC3002 DEL SEMESTRE OTOÑO 2021 #
+
+
 # Context.
 This project's goal is to create a simplified version of Scratch maked by Scratch Foundation. This is going to have a program environment to create simple programs without having knowledge of programming languages.
 
