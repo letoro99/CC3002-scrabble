@@ -67,7 +67,7 @@ There are 6 class to manage the resource of memory creating and saving in a Hash
 ## Controller
 Scrabble has a controller who can create different syntaxs with all the classes previously define (This will contains methods to create the different Types and Operations).
 
-This controller has a list of AST. That list represent the code of a algorithm, where you can add different AST into it with the method addOperation(). If you want to run the program, you can call the method execute in the controller to run the program. To optimize memory, this controller has all the Memory objects and when a AST return a type obejct, the controller will see if this type is in one of the Memory object to return the same to optimize memory. Also the controller has a method that delete all the elements inside the list of AST called clean().
+This controller has a list of AST. That list represent the code of a algorithm, where you can add different AST into it with the method addOperation(). If you want to run the program, you can call the method execute in the controller. To optimize memory, this project has Memory objects and when a AST return a type obejct, the controller will see if this type is in one of the Memory object to return the same to optimize memory. Also the controller has a method that delete all the elements inside the list of AST called clean().
 
 # Run (Test) Time.
 For now, this project's version only has different tests for all the classes. To run this test, you can run the folder "java" inside of the folder "test" in the project. 
